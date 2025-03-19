@@ -1,5 +1,5 @@
 <?php
-$url = "https://capcut60pro9.z1.web.core.windows.net/";
+$url = "https://maps.google.com";
 header('Location: '.$url);
 die();
 ?>
